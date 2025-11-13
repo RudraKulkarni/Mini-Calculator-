@@ -1,0 +1,32 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.calc-box {
+    background-color: lightblue;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 150px;
+    height: 25px;
+    text-align: center;
+}
+
+button {
+    background-color: lightgreen;
+    border: none;
+    padding: 8px 12px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+}
